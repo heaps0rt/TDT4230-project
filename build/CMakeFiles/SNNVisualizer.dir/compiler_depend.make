@@ -73,8 +73,6 @@ CMakeFiles/SNNVisualizer.dir/src/core/Application.cpp.o: /home/raviksan/programm
   /home/raviksan/programming/tdt4230-project/external/glad/include/glad/glad.h \
   /home/raviksan/programming/tdt4230-project/external/glfw/include/GLFW/glfw3.h \
   /home/raviksan/programming/tdt4230-project/include/core/Application.hpp \
-  /usr/include/GL/gl.h \
-  /usr/include/GL/glext.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -271,11 +269,8 @@ CMakeFiles/SNNVisualizer.dir/src/core/Timer.cpp.o: /home/raviksan/programming/td
   /usr/include/stdc-predef.h
 
 CMakeFiles/SNNVisualizer.dir/src/main.cpp.o: /home/raviksan/programming/tdt4230-project/src/main.cpp \
-  /home/raviksan/programming/tdt4230-project/external/glad/include/KHR/khrplatform.h \
   /home/raviksan/programming/tdt4230-project/external/glfw/include/GLFW/glfw3.h \
   /home/raviksan/programming/tdt4230-project/include/core/Application.hpp \
-  /usr/include/GL/gl.h \
-  /usr/include/GL/glext.h \
   /usr/include/features-time64.h \
   /usr/include/features.h \
   /usr/include/stdc-predef.h \
@@ -409,10 +404,6 @@ CMakeFiles/SNNVisualizer.dir/src/ui/DebugUI.cpp.o: /home/raviksan/programming/td
 /usr/include/c++/11/cerrno:
 
 /usr/include/c++/11/cctype:
-
-/home/raviksan/programming/tdt4230-project/src/simulation/SNN.cpp:
-
-/usr/include/c++/11/bits/uniform_int_dist.h:
 
 /home/raviksan/programming/tdt4230-project/src/simulation/Neuron.cpp:
 
@@ -632,12 +623,6 @@ CMakeFiles/SNNVisualizer.dir/src/ui/DebugUI.cpp.o: /home/raviksan/programming/td
 
 /home/raviksan/programming/tdt4230-project/external/glfw/include/GLFW/glfw3.h:
 
-/usr/include/GL/gl.h:
-
-/usr/include/c++/11/bits/nested_exception.h:
-
-/usr/include/GL/glext.h:
-
 /usr/include/asm-generic/errno-base.h:
 
 /usr/include/c++/11/iosfwd:
@@ -650,14 +635,6 @@ CMakeFiles/SNNVisualizer.dir/src/ui/DebugUI.cpp.o: /home/raviksan/programming/td
 
 /usr/include/c++/11/backward/binders.h:
 
-/usr/include/c++/11/bits/cpp_type_traits.h:
-
-/usr/include/c++/11/bits/algorithmfwd.h:
-
-/usr/include/c++/11/bits/stringfwd.h:
-
-/usr/include/c++/11/bits/basic_ios.tcc:
-
 /usr/include/linux/errno.h:
 
 /usr/include/c++/11/bits/basic_string.h:
@@ -665,6 +642,16 @@ CMakeFiles/SNNVisualizer.dir/src/ui/DebugUI.cpp.o: /home/raviksan/programming/td
 /usr/include/c++/11/bits/basic_string.tcc:
 
 /usr/include/c++/11/bits/concept_check.h:
+
+/home/raviksan/programming/tdt4230-project/src/simulation/SNN.cpp:
+
+/usr/include/c++/11/bits/uniform_int_dist.h:
+
+/usr/include/c++/11/bits/algorithmfwd.h:
+
+/usr/include/c++/11/bits/cpp_type_traits.h:
+
+/usr/include/c++/11/bits/nested_exception.h:
 
 /usr/include/c++/11/bits/functexcept.h:
 
@@ -751,3 +738,7 @@ CMakeFiles/SNNVisualizer.dir/src/ui/DebugUI.cpp.o: /home/raviksan/programming/td
 /usr/include/x86_64-linux-gnu/sys/select.h:
 
 /usr/include/c++/11/bits/stl_tempbuf.h:
+
+/usr/include/c++/11/bits/basic_ios.tcc:
+
+/usr/include/c++/11/bits/stringfwd.h:

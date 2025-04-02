@@ -75,8 +75,6 @@ CMakeFiles/SNNVisualizer.dir/src/core/Application.cpp.o
  /home/raviksan/programming/tdt4230-project/external/glad/include/glad/glad.h
  /home/raviksan/programming/tdt4230-project/external/glfw/include/GLFW/glfw3.h
  /home/raviksan/programming/tdt4230-project/include/core/Application.hpp
- /usr/include/GL/gl.h
- /usr/include/GL/glext.h
  /usr/include/alloca.h
  /usr/include/asm-generic/errno-base.h
  /usr/include/asm-generic/errno.h
@@ -275,11 +273,8 @@ CMakeFiles/SNNVisualizer.dir/src/core/Timer.cpp.o
 
 CMakeFiles/SNNVisualizer.dir/src/main.cpp.o
  /home/raviksan/programming/tdt4230-project/src/main.cpp
- /home/raviksan/programming/tdt4230-project/external/glad/include/KHR/khrplatform.h
  /home/raviksan/programming/tdt4230-project/external/glfw/include/GLFW/glfw3.h
  /home/raviksan/programming/tdt4230-project/include/core/Application.hpp
- /usr/include/GL/gl.h
- /usr/include/GL/glext.h
  /usr/include/features-time64.h
  /usr/include/features.h
  /usr/include/stdc-predef.h
